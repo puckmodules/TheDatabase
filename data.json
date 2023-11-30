@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Example Title 1",
+        "description": "Description for example 1",
+        "tags": ["tag1", "tag2"]
+    },
+    {
+        "title": "Example Title 2",
+        "description": "Description for example 2",
+        "tags": ["tag2", "tag3"]
+    }
+]
